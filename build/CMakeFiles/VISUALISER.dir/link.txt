@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/VISUALISER.dir/src/visualiser.cpp.o CMakeFiles/VISUALISER.dir/src/glad/glad.c.o CMakeFiles/VISUALISER.dir/src/shaders/shader.cpp.o -o VISUALISER  -lglfw -lGL -ldl 

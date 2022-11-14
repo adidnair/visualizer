@@ -1,0 +1,3 @@
+/home/aditya/stuff/new_visualiser/build/CMakeFiles/VISUALISER.dir
+/home/aditya/stuff/new_visualiser/build/CMakeFiles/edit_cache.dir
+/home/aditya/stuff/new_visualiser/build/CMakeFiles/rebuild_cache.dir
